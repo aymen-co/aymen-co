@@ -8,8 +8,6 @@ I'm a programmer and full-stack developer. Experienced in building automation sc
 * **Backend & DB:** Node.js, Express, MongoDB, PostgreSQL, MySQL
 * **Tools:** GitHub, VS Code, Docker, Postman, Figma
 
-### 📊 GitHub Stats:
+### 📊 GitHub Activity:
 
-![Your GitHub Stats](https://vercel.app)
-
-![Top Langs](https://vercel.app)
+![GitHub Activity Graph](https://vercel.app)
